@@ -1,6 +1,7 @@
 ﻿##Select Machine Catalog
 #Function Catalog-Selection{
 asnp citrix.*
+NaveenaryaShinugserrordetails 
 $CatalogName=""
 Add-type -AssemblyName PresentationFramework
 
